@@ -46,4 +46,8 @@ export class TaskService {
     this.repo.save(updated);
     return updated;
   }
+
+  deleteTask(id: string): boolean {
+    
+
 }
