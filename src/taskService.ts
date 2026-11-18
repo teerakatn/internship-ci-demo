@@ -47,7 +47,4 @@ export class TaskService {
     return updated;
   }
 
-  deleteTask(id: string): boolean {
-    
-
 }
